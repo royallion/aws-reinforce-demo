@@ -5,9 +5,9 @@ This session will show how a potential social engineering attack is detected. As
 
 The first part of the Connect Flow looks like this: 
 
-![alt text](https://github.com/royallion/aws-reinforce-demo/images/Connect-Flow-1.png "Connect Flow 1")
+![alt text](https://github.com/royallion/aws-reinforce-demo/blob/master/images/Connect-Flow-1.png "Connect Flow 1")
 
 
 Once the call is connected, the social engineering part of the Connect Flow looks like this:
 
-![alt text](https://github.com/royallion/aws-reinforce-demo/images/Connect-Flow-2.png "Connect Flow 2")
+![alt text](https://github.com/royallion/aws-reinforce-demo/blob/master/images/Connect-Flow-2.png "Connect Flow 2")
