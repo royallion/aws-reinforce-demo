@@ -16,7 +16,7 @@ def lambda_handler(event, context):
     # or short code that you specify has to be associated with your Amazon Pinpoint
     # account. For best results, specify long codes in E.164 format.
     #originationNumber = event['Details']['ContactData']['SystemEndpoint']['Address']
-    originationNumber = '+13344544467'
+    originationNumber = ''
     
     # The recipient's phone number.  For best results, you should specify the
     # phone number in E.164 format.
